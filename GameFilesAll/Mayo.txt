@@ -1,0 +1,31 @@
+Personality: Slutty, Wants to be in your sandwich
+
+M:Are you making a sandwich?
+P:Yes, I am making a sandwich.
+M:Can I be on your sandwich?
+M:Please.
+M:PLEASE!!!
+	1:No, I hate mayonnaise.
+	2:Yes, I want mayonnaise all over my entire sandwich.
+1
+	M:What? You don't want me on your sandwich!
+	M:You're so mean!
+	M:I'm gonna be on your sandwich no matter what!
+2
+	M:Yay, I'm so glad I can be on your sandwich!
+	Z:Mayo puts a lot of her mayonnaise on your sandwich.
+	Z:Your sandwich now has a lot of mayonnaise on it.
+	Z:MAYO OBTAINED
+
+Second Dialogue(if you denied mayo)
+M:Ok, so maybe I was a bit too aggressive last time.
+M:Can I pretty please be on your sandwich?
+	1:No, I still hate mayonnaise.
+	2:Yes, I am okay with a little bit of mayonnaise.
+1
+	M:Oh darn.
+	M:I really thought you would want me on your sandwich, but oh well.
+2
+	M:Really? Yay!
+	Z:Mayo puts an agreeable amount of mayo on your sandwich.
+	Z:MAYO OBTAINED

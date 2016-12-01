@@ -1,0 +1,17 @@
+L:Hi, I'm Lettuce-Kun, who are you?
+P:I'm a person that desires a good sandwich.
+L:Oh you want me one your sandwich?
+L:Well...
+L:Press "pg up" really fast!
+	1:Player fails
+	2:Player succeeds
+1
+	L:Okay cool, I'll be a part of your sandwich.
+	Z:LETTUCE-KUN OBTAINED
+2
+	L:You ain't cool enough to have me on your sandwich!
+	Z:Lettuce shuffles away.
+
+
+
+USE FAKEOUT
