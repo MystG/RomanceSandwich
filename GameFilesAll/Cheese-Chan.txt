@@ -1,0 +1,20 @@
+Personality: Friendly, Cute
+
+C:Hey, I heard you want me to be on your sandwich.
+P:Yes, I desire you on my sandwich.
+C:Well, I'm afraid I'm feeling kinda down today.
+C:Maybe if you made me happy, I would be a part of your sandwich.
+	1:Play a song on your Yamaha P-45 Black 88-Key Digital Piano with Speaker.
+	2:Play a song on your Yamaka.
+1
+	Z:You play a wonderful song.
+	Z:Cheese-Chan begins to dance.
+	C:Ok, I'm happy now.
+	C:I'll be a part of your sandwich.
+2
+	Z:You attempt to play your Yamaka.
+	Z:Not only is a Yamaka not an intstrument, but you also seem to lack a Yamaka.
+	Z:Cheese-Chan is nonetheless enthralled by your determination.
+	C:You're silly ha ha.
+	C:Sure, I'll be a part of your sandwich.
+Z:CHEESE-CHAN OBTAINED

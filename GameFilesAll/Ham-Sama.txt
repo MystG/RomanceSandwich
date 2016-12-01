@@ -1,0 +1,16 @@
+Personality: Perturbed, Sad
+
+H:What do you want?
+P:I want you on my sandwich.
+H:OH. SO YOU WANT ME ON YOUR SANDWICH?
+	1:Yes, it would be most desireable to have you upon and within my sandwich.
+	2:You're scary so I'm going to leave.
+1
+	H:Say please.
+	P:Please.
+	H:Okay sure.
+	Z:HAM-SAMA OBTAINED
+2
+	H:Oh I scare you huh? HUH?
+	P:Yes you are a scary ham please go away.
+	H:Okay bye.

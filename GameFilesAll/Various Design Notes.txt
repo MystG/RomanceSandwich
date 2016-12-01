@@ -1,0 +1,15 @@
+Characters Primary:
+	Bun-san
+	Ham-sama
+	Cheese-chan
+	Lettuce-kun
+	Mayo
+
+Characters Secondary:
+	Ciabatta-Senpai
+
+Ratios:
+	Map:1020x760
+	CharacterClose:800x600
+	CharacterFunctional:64x64
+

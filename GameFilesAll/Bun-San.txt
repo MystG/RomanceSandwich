@@ -1,0 +1,15 @@
+Personality: Tsundere
+
+B:Hey.
+P:Sup.
+B:I totally don't want to be in your sandwich or anything.
+P:I do not understand what you mean.
+B:You just don't get it.
+	1:I hereby invite you to my sandwich.
+	2:I am so confused right now.
+1
+	B:Okay I guess I'll be a part of your sandwich.
+	B:Whatever.
+	Z:BUN-SAN OBTAINED
+2:
+	Z:Bun-San runs away.
